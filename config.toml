@@ -1,0 +1,9 @@
+baseurl = "https://pavelrudnev.github.io"
+languageCode = "en-gb"
+title = "Pavel Rudnev’s website"
+theme = "kube"
+
+[params]
+   description = "Pavel Rudnev’s website"
+   author = "Pavel Rudnev"
+   
