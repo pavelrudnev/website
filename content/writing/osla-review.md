@@ -8,8 +8,8 @@ tag: "osla-review"
 file: "osla-rudnev-review.pdf"
 subjects: "anaphora binding_theory syntax_semantics_interface"
 comments: "yes"
-date: "2011-11-28"
-publishdate: 2011-11-28
+date: "2010-12-01"
+publishdate: 2010-12-01
 
 ---
 
