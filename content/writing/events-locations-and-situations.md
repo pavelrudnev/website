@@ -3,7 +3,7 @@ title: "Events, locations and situations: On the interaction of negation and fin
 author: "Pavel Rudnev"
 status: "Published in 2015"
 type: published
-citation: "&ldquo;Events, locations and situations: On the interaction of negation and finiteness in Avar,&rdquo; <a href=\"http://dx.doi.org/10.1075/avt.32.11rud\"><em>Linguistics in the Netherlands</em> (32), pp.&nbsp;142-154</a>."
+citation: "&ldquo;Events, locations and situations: On the interaction of negation and finiteness in Avar,&rdquo; <a href=\"http://dx.doi.org/10.1075/avt.32.11rud\"><em>Linguistics in the Netherlands</em> (32), pp.&nbsp;142--154</a>."
 tag: "events-locations-lin"
 file: "eventslocationssituations.pdf"
 subjects: "finiteness Caucasian_languages syntax_semantics_interface negation syntax"

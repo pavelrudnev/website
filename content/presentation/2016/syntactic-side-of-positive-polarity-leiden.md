@@ -3,6 +3,7 @@ date = "2016-09-15"
 title = "The syntactic side of positive polarity: PPI-disjunctions in Russian"
 host = "ComSyn Meetings, Leiden"
 publishdate = "2017-07-09"
+file = "leiden-slides.pdf"
 
 +++
 
@@ -12,4 +13,4 @@ The current consensus in the literature seems to be that positive polarity is a 
 
 This is an invited talk presented at the [Comparative Syntax Meetings](https://romancelab.weblog.leidenuniv.nl/) series at the University of Leiden, 15 September 2016.
 
-* The [handout is available here](//papers/leiden-handout-2up.pdf).
+* The [handout is available here](https://pavelrudnev.github.io/papers/leiden-handout-2up.pdf).
