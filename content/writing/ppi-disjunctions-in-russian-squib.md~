@@ -5,7 +5,7 @@ status: "Unpublished manuscript"
 type: unpublished
 citation: "(with Vadim Kimmelman) &ldquo;Breaking the coreference rule: Reflexivity in Russian Sign Language.&rdquo; Unpublished manuscript. University of Amsterdam and University of Groningen"
 tag: "reflexives-rsl"
-file: "paper-coreference-rule.pdf"
+file: "breakingcoreference.pdf"
 subjects: "anaphora binding_theory syntax_semantics_interface"
 comments: "yes"
 date: "2011-11-30"
