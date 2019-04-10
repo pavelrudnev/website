@@ -3,6 +3,7 @@ date = "2016-06-03"
 title = "Particles, disjunctions and inquisitivity in Avar"
 host = "TaBu Dag, Groningen"
 publishdate = "2017-07-09"
+file = "tabu-handout.pdf"
 
 +++
 
@@ -18,5 +19,5 @@ Wiltschko (2016) with the analysis of particle float in Avar (Rudnev 2015).
 
 This is a  talk presented at the 37th installment of [TaBu Dag](http://www.let.rug.nl/tabudag/), an annual general linguistics conference organised by the University of Groningen, 3rd June 2016.
 
-* The [handout is available here](http://pavelrudnev.github.io/pdf/tabu-handout.pdf).
-* Alternatively, you can [view the slides here](http://pavelrudnev.github.io/pdf/tabu-slides.pdf).
+* The [handout is available here](http://pavelrudnev.github.io/papers/tabu-handout.pdf).
+* Alternatively, you can [view the slides here](http://pavelrudnev.github.io/papers/tabu-slides.pdf).
