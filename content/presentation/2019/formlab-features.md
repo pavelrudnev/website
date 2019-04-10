@@ -8,8 +8,8 @@ publishdate = "2019-03-01"
 
 This talks provides an overview of approaches to featural dependencies in current minimalist work starting from Chomsky (1995). I also discuss aspects of the theory of feature structure which, though often taken for granted, present non-trivial challenges to developing explanatory analyses of featural dependencies. In addition to ϕ-features, the features I discuss are as follows:
 
-  * interpretable *vs.* uninterpretable
-  * valued *vs.* unvalued
+  * interpretable vs. uninterpretable
+  * valued vs. unvalued
   * second-order features/EPP-features
   * features-of-features ([E]-features)
   * formal wh-features
