@@ -19,4 +19,4 @@ Given the central spot afforded to unvalued features in current theorizing, the 
 
 The present paper discusses, using data from Avar, a crosslinguistically rare phenomenon of adposition agreement, whereby certain adverbs, postpositions and locative case forms undergo agreement with an absolutive argument.  I show that the agreement morphology on agreeing adpositions is a result of agreement rather than concord and explore the consequences of adposition agreement in Avar for upward and downward valuation. I conclude that upward valuation is better equipped to account for the observed patterns than downward valuation, both on empirical and conceptual grounds.
 
-The paper is currently undergoing peer review; yet, if you feel you would like an intermediate draft of it, please get in touch with me.
+This is the author's final version of an article accepted to appear in *Linguistic Inquiry*.
