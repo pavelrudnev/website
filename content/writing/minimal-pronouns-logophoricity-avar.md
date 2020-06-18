@@ -10,6 +10,7 @@ subjects: "anaphora binding_theory syntax_semantics_interface"
 comments: "yes"
 date: "2017-02-28"
 publishdate: 2017-03-24
+doi: "10.1111/stul.12066"
 
 ---
 
