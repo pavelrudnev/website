@@ -10,6 +10,7 @@ subjects: "finiteness Caucasian_languages syntax_semantics_interface negation sy
 comments: "yes"
 date: "2015-10-31"
 publishdate: 2015-10-31
+doi: "10.1075/avt.32.11rud"
 
 ---
 
