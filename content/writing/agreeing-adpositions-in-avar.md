@@ -1,15 +1,17 @@
 ---
-title: "Adposition agreement in Avar and the directionality of valuation debate"
+title: "Agreeing adpositions in Avar and the directionality of valuation debate"
 author: "Pavel Rudnev"
 status: "to appear"
 type: published
-citation: "&ldquo;Adposition agreement in Avar and the directionality of valuation debate.&rdquo; <em>Linguistic Inquiry</em> Early View."
+citation: "&ldquo;Agreeing adpositions in Avar and the directionality of valuation debate.&rdquo; <em>Linguistic Inquiry</em> Early View."
 tag: "agreement-avar"
 subjects: "agreement core_syntactic_operations Avar syntax"
 comments: "yes"
 date: "2019-07-31"
 publishdate: "2019-07-31"
+doi: "10.1162/ling_a_00360"
 file: "LI-squib-just-accepted.pdf"
+
 ---
 
 
