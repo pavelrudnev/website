@@ -9,6 +9,7 @@ citation: "“The Anaphor Agreement Effect is not about featural deficiency: Evi
 subjects: "anaphora binding_theory agreement nominalization finiteness"
 date: "2020-05-13"
 publishdate: "2020-05-13"
+doi: "10.5334/gjgl.907"
 
 ---
 

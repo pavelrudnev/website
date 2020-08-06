@@ -1,11 +1,11 @@
 ---
 title: "The Anaphor Agreement Effect is not about featural deficiency: Evidence from Avar"
 author: "Pavel Rudnev"
-status: "to appear in Glossa: a journal of general linguistics"
-type: unpublished
+status: "Glossa: a journal of general linguistics"
+type: published
 tag: "logophoricity-avar-glossa"
 file: "aae-encapsulation-squib.pdf"
-citation: "“The Anaphor Agreement Effect is not about featural deficiency: Evidence from Avar.” to appear in <em>Glossa: a journal of general linguistics</em>."
+citation: "“The Anaphor Agreement Effect is not about featural deficiency: Evidence from Avar.” <em>Glossa: a journal of general linguistics</em> 5(1): 1–19."
 subjects: "anaphora binding_theory agreement nominalization finiteness"
 date: "2020-05-13"
 publishdate: "2020-05-13"
