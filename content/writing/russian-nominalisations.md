@@ -5,7 +5,7 @@ status: "to appear in Russian Linguistics"
 type: published
 tag: "case-russian-nominalisations"
 file: "nominalisations-master.pdf"
-citation: "(with Anna Volkova) “Case marking in Russian eventive nominalisations revisited.” <em>Russian Linguistics</em> 44(2)."
+citation: "(with Anna Volkova) “Case marking in Russian eventive nominalisations revisited.” <em>Russian Linguistics</em> 44(2): 157–175."
 subjects: "case nominalization Russian"
 doi: "10.1007/s11185-020-09228-9"
 date: "2020-05-13"
