@@ -3,7 +3,7 @@ title: "Agreeing adpositions in Avar and the directionality of valuation debate"
 author: "Pavel Rudnev"
 status: "to appear"
 type: published
-citation: "&ldquo;Agreeing adpositions in Avar and the directionality of valuation debate.&rdquo; <em>Linguistic Inquiry</em> Early View."
+citation: "&ldquo;Agreeing adpositions in Avar and the directionality of valuation debate.&rdquo; <em>Linguistic Inquiry</em> 51(4): 829–844."
 tag: "agreement-avar"
 subjects: "agreement core_syntactic_operations Avar syntax"
 comments: "yes"
