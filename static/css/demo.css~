@@ -1,13 +1,13 @@
 /* =Typography
 -----------------------------------------------------------------------------*/
 body {
-	font-family: 'STIX Two Text', 'Alegreya', 'Hoefler Text', Times, Serif;
+	font-family: 'Alegreya', 'Hoefler Text', Times, Serif;
 	font-size: 1.05em;
 	line-height: 1.6em;
 	background-color: #ffffff;
 }
 
-form, input[type="search"], select[multiple="multiple"]  {font-family:  'STIX Two Text', 'Alegreya', 'Trebuchet MS', Helvetica, Arial, sans-serif;}
+form, input[type="search"], select[multiple="multiple"]  {font-family:  'Alegreya', 'Trebuchet MS', Helvetica, Arial, sans-serif;}
 
 /*body {
   background: #ffffff;
@@ -18,7 +18,7 @@ form, input[type="search"], select[multiple="multiple"]  {font-family:  'STIX Tw
 }
 */
 h1, h2, h3, h4, h5 {
-	font-family: 'STIX Two Text', 'Alegreya', 'Trebuchet MS', Helvetica, Arial, sans-serif;
+	font-family: 'Alegreya', 'Trebuchet MS', Helvetica, Arial, sans-serif;
 	font-style: italic;
 	color: #000000;
 }
@@ -28,9 +28,8 @@ h2, h3, h4, h5 {
 }
 h2, h3 {
 	text-transform: lowercase;
-	font-family: 'STIX Two Text', 'Alegreya SC';
+	font-family: 'Alegreya SC';
 	font-style: normal;
-	font-variant: small-caps;
 }
 
 .label-red {
