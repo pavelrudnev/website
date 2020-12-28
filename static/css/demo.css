@@ -7,7 +7,7 @@ body {
 	background-color: #ffffff;
 }
 
-form, input[type="search"], select[multiple="multiple"]  {font-family:  'Alegreya', 'Trebuchet MS', Helvetica, Arial, sans-serif;}
+form, input[type="search"], select[multiple="multiple"]  {font-family:  stix-two-text, 'Alegreya', 'Trebuchet MS', Helvetica, Arial, sans-serif;}
 
 /*body {
   background: #ffffff;
