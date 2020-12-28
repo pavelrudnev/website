@@ -1,7 +1,7 @@
 /* =Typography
 -----------------------------------------------------------------------------*/
 body {
-	font-family: 'stix-two-text', 'Alegreya', 'Hoefler Text', Times, Serif;
+	font-family: stix-two-text, serif/*, 'Alegreya', 'Hoefler Text', Times, Serif*/;
 	font-size: 1.05em;
 	line-height: 1.6em;
 	background-color: #ffffff;
