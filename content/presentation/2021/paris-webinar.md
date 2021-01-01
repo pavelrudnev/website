@@ -6,11 +6,11 @@ publishdate = "2021-01-01"
 
 +++
 
-The Anaphor Agreement Effect (AAE) is an empirical observation stating that reflexive pronouns tend to fail to trigger non-trivial *𝜑*-agreement on the verb (Rizzi 1990, Murugesan 2019, Preminger 2019).
+The Anaphor Agreement Effect (AAE) is an empirical observation stating that reflexive pronouns tend to fail to trigger non-trivial 𝜑-agreement on the verb (Rizzi 1990, Murugesan 2019, Preminger 2019).
 
 Theoretical approaches to anaphora seeking to reduce reflexive binding to agreement postulate an inherent featural deficiency for referentially dependent expressions (Kratzer 2009, Rooryck & Vanden Wyngaerd 2011, Murugesan 2019). If it is not resolved via Agree during the derivation, the resulting structure either spells out trivial/defaul agreement (e.g. Albanian) or cannot be spelled out altogether (e.g. Icelandic). Exceptions to the AAE are handled by tweaking the relative hierarchical positions of the various elements participating in the agreement relationship.
 
-This paper aims to show, by adducing evidence from Avar and other East Caucasian languages, that the reductionist approach to the AAE and binding more generally makes incorrect predictions. I also show that the East Caucasian data are fully compatible with the encapsulation approach to the AAE whereby reflexives are viewed as multi-layered pronouns whose interior with valued *𝜑*-features is inaccessible to probing by verbal *𝜑*-probes (Preminger 2019).
+This paper aims to show, by adducing evidence from Avar and other East Caucasian languages, that the reductionist approach to the AAE and binding more generally makes incorrect predictions. I also show that the East Caucasian data are fully compatible with the encapsulation approach to the AAE whereby reflexives are viewed as multi-layered pronouns whose interior with valued 𝜑-features is inaccessible to probing by verbal 𝜑-probes (Preminger 2019).
 
 ### References ###
 
