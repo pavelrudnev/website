@@ -14,4 +14,12 @@ This paper aims to show, by adducing evidence from Avar and other East Caucasian
 
 ### References ###
 
-Kratzer, Angelika. 2009. Making a pronoun: Fake indexicals as windows into the properties of pronouns. Linguistic Inquiry 40(2). 187–237. y Murugesan, Gurujegan. 2019. Predicting the Anaphor Agreement Effect and its violations. Leipzig University dissertation. y Preminger, Omer. 2019. The Anaphor Agreement Effect: further evidence against binding-as-agreement. Unpublished ms., University of Maryland at College Park. Version v7, accessed 4th August 2019. y Rizzi, Luigi. 1990. On the anaphor agreement effect. Rivista di Grammatica Generativa 2. 27–42. y Rooryck, Johan & Guido Vanden Wyngaerd. 2011. Dissolving binding theory. Oxford: Oxford University Press.
+Kratzer, Angelika. 2009. Making a pronoun: Fake indexicals as windows into the properties of pronouns. Linguistic Inquiry 40(2). 187–237. 
+
+Murugesan, Gurujegan. 2019. Predicting the Anaphor Agreement Effect and its violations. Leipzig University dissertation. 
+
+Preminger, Omer. 2019. The Anaphor Agreement Effect: further evidence against binding-as-agreement. Unpublished ms., University of Maryland at College Park. Version v7, accessed 4th August 2019. 
+
+Rizzi, Luigi. 1990. On the anaphor agreement effect. Rivista di Grammatica Generativa 2. 27–42. 
+
+Rooryck, Johan & Guido Vanden Wyngaerd. 2011. Dissolving binding theory. Oxford: Oxford University Press.
