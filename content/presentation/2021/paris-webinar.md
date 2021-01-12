@@ -12,7 +12,7 @@ Theoretical approaches to anaphora seeking to reduce reflexive binding to agreem
 
 This paper aims to show, by adducing evidence from Avar and other East Caucasian languages, that the reductionist approach to the AAE and binding more generally makes incorrect predictions. I also show that the East Caucasian data are fully compatible with the encapsulation approach to the AAE whereby reflexives are viewed as multi-layered pronouns whose interior with valued *φ*-features is inaccessible to probing by verbal *φ*-probes (Preminger 2019).
 
-The slides from the talk can be found [here](/papers/paris-aae.pdf)
+The slides from the talk can be found [**here**](/papers/paris-aae.pdf).
 
 ### References ###
 
