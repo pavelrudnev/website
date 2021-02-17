@@ -8,7 +8,7 @@ tag: "agreement-avar-chirag"
 subjects: "agreement core_syntactic_operations Avar syntax"
 comments: "yes"
 date: "2020-12-30"
-publishdate: "2020-12-30"
+publishdate: "2021-02-15"
 file: "tlir.pdf"
 doi: "10.1515/tlr-2021-2059"
 
