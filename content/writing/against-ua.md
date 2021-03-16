@@ -1,9 +1,9 @@
 ---
 title: "Against Upwards Agree"
 author: "Pavel Rudnev"
-status: "to appear in 2021"
+status: "published article"
 type: published
-citation: "&ldquo;Against Upwards Agree.&rdquo; <em> The Linguistic Review</em> Ahead of Print."
+citation: "&ldquo;Against Upwards Agree.&rdquo; <em> The Linguistic Review</em> 38(1): 65–99."
 tag: "agreement-avar-chirag"
 subjects: "agreement core_syntactic_operations Avar syntax"
 comments: "yes"
