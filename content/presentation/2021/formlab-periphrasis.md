@@ -1,10 +1,9 @@
 +++
-date = "2021-01-22"
-title = "Morphosyntactic duality of nonfinite forms in Avar"
-host = "HSE Formal Linguistics Laboratory"
-publishdate = "2021-01-22"
+date = "2021-04-06"
+title = "Revisiting Russian small nominals"
+host = "Ben Gurion University of the Negev"
+publishdate = "2021-04-03"
 
 +++
 
-It is a robust empirical generalisation that, crosslinguistically, nonfinite verbal forms (infinitives, participles, converbs and nominalisations) can head clauses of their own as well as form a part of compound, periphrastic forms expressing a variety of meanings (tense, aspect, modality and evidentiality). In this talk, I systematise what is known about the various types of such multifunctional nonfinites in Avar and attempt to situate them on the theoretical landscape. I argue that all periphrastic TAME-forms in Avar involve vP-restructuring whereby an auxiliary verb, *be*, takes a nonfinite lexical vP (whether it is an infinitive, a converb or a participle) as its complement. I conclude that the Avar facts are better compatible with Merge/Selection rather than the insertion approaches to verbal periphrasis.
-
+Many approaches to the syntax of  nominal phrases postulate the existence of nominals of various size so that some modifiers — determiners, quantifiers and classifiers — are argued to project a constituent of their own, such as DP, QP and ClP. As discussed by Salzmann (2020), most of the existing arguments do not in fact show that it is the modifier that is the head of the entire nominal constituent and are instead based on essentially semantic notions like referentiality. A rare exception is Pereltsvaig (2006), who provides a distributional argument for the existence of determinerless noun phrases in Russian that are c-selected by dedicated heads in the shape of the cumulative verbal prefix ‘na-’, a prefix that is argued to be incompatible with DPs. In this talk, I revisit the distributional behaviour of these small nominals by adducing naturally occurring data as well as acceptability data that reveal no incompatibility between cumulative ‘na-’verbs and full DPs. I conclude that Russian small nominals are never c-selected and do not support the DP-hypothesis.
