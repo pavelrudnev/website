@@ -3,12 +3,13 @@ title: "Linearisation constraints on sentential negation in Russian Sign Languag
 author: "Anna Kuznetsova & Pavel Rudnev"
 status: "accepted article"
 type: unpublished
-citation: "(with Anna Kuznetsova) &ldquo;Linearisation constraints on sentential negation in Russian Sign Language are prosodic.&rdquo; to appear in <em> Sign Language & Linguistics</em>."
+citation: "(with Anna Kuznetsova) &ldquo;Linearization constraints on sentential negation in Russian Sign Language are prosodic.&rdquo; to appear in <em> Sign Language & Linguistics</em>."
 tag: "negation"
 subjects: "negation_RSL"
 comments: "yes"
 date: "2021-04-12"
 publishdate: "2021-04-12"
+doi: "10.1075/sll.20007.rud"
 file: "sll-squib.pdf"
 
 ---
@@ -18,4 +19,4 @@ This short remark documents exceptions to the main strategy of expressing senten
 
 **keywords:** Russian Sign Language, syntax, negation, prosody
 
-This is the author's final version of an article accepted to appear in *Sign Language & Linguistics*.
+This is the authors' final version of an article accepted to appear in *Sign Language & Linguistics*.
