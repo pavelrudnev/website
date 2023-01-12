@@ -2,13 +2,13 @@
 title: "The Anaphor Agreement Effect as epiphenomenon"
 author: "Pavel Rudnev"
 status: "The many facets of agreement"
-type: unpublished
+type: published
 tag: "logophoricity-avar-glossa"
 file: "rudnev-agreement-chapter-standalone.pdf"
-citation: "“The Anaphor Agreement Effect as epiphenomenon.” In Pavel Caha, Pavel Rudnev and Svetlana Toldova (eds.) <em>The many facets of agreement.</em> LINCOM Europa."
+citation: "“The Anaphor Agreement Effect as epiphenomenon.” In Pavel Caha, Pavel Rudnev and Svetlana Toldova (eds.) <em>The many facets of agreement.</em> 111–144. LINCOM Studies in Theoretical Linguistics 68. LINCOM Europa."
 subjects: "anaphora binding_theory agreement nominalization finiteness"
-date: "2022-12-14"
-publishdate: "2022-12-14"
+date: "2023-01-12"
+publishdate: "2023-01-12"
 
 ---
 
