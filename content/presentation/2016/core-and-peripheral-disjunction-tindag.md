@@ -14,4 +14,4 @@ This paper’s point of departure is the generalisation in Szabolcsi (2002) that
 
 Corresponding sentences in Hungarian are interpreted exclusively: either Mary doesn’t speak German or she doesn’t speak Polish (Szabolcsi 2002). Szabolcsi (2002) proposes that the contrast between English and Hungarian lies in the status of Hungarian ‘or’ as a positive polarity item, in contrast to English or. In this talk I take a closer look at Russian, a language that Szabolcsi (2002) places in the Hungarian class, by revisiting Szabolcsi’s generalisation as it applies to Russian.
 
-* The [slides can be downloaded here](http://pavelrudnev.github.io/pdf/tindag2016-slides.pdf).
+* The [slides can be downloaded here](/papers/tindag2016-slides.pdf).

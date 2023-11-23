@@ -15,4 +15,4 @@ In particular, I show that the two negation markers attested in Avar differ in t
 
 This is a talk at TiN-Dag 2015, the annual general linguistics conference of the [Dutch Linguistics Association](http://www.hum.leidenuniv.nl/onderzoek/avt/).
 
-* The [handout](http://pavelrudnev.github.io/pdf/tindag2015-handout.pdf) for this talk is available.
+* The [handout](http://pavelrudnev.github.io/papers/tindag2015-handout.pdf) for this talk is available.

@@ -18,4 +18,4 @@ I further draw a number of cross-linguistic comparisons between Avar on the one 
 
 This is a talk at the [That depends...]() workshop on the occasion of my viva at the University of Groningen.
 
-* The [handout](http://pavelrudnev.github.io/pdf/that-depends-handout.pdf) for this talk is available.
+* The [handout](http://pavelrudnev.github.io/papers/that-depends-handout.pdf) for this talk is available.

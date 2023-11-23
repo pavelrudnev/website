@@ -29,4 +29,4 @@ In this talk I revisit Szabolcsi’s (2002) generalisation as it applies to Russ
 
 This is an invited talk at the [Syntax Interface Lectures](http://syntaxif.wp.hum.uu.nl/) series at Utrecht University.
 
-* The [handout](http://pavelrudnev.github.io/pdf/utrecht-handout-1up.pdf) for this talk is available.
+* The [handout](http://pavelrudnev.github.io/papers/utrecht-handout-1up.pdf) for this talk is available.
