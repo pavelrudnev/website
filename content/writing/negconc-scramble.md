@@ -6,6 +6,7 @@ type: unpublished
 citation: "&ldquo;Strict negative concord in Russian and the directionality of Agree.&rdquo; Accepted with minor revisions at <em>Syntax</em>. April 2024."
 tag: "negative_concord Russian scrambling Agree"
 comments: "yes"
+file: "negconc-scrambl.pdf"
 date: "2024-04-13"
 publishdate: 2024-04-13
 ---
