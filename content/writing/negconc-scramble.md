@@ -13,4 +13,4 @@ publishdate: 2024-04-13
 
 This contribution discusses strict negative concord, frequently considered a major argument for Upward Agree whereby feature-defective probes are c-commanded by feature-complete goals. By focusing on the interaction between long-distance scrambling and negative concord in Russian, I formulate serious challenges for Upward Agree. The facts are then shown to be trivially compatible with Downward Agree whereby probes c-command goals.
 
-The paper is currently under review; yet, if you feel you would like an intermediate draft of it, please [**get in touch with me**](mailto:pasha.rudnev@gmail.com).
+The linked PDF is a submitted version of an article undergoing peer review. 
