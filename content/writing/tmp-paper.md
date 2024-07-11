@@ -3,7 +3,7 @@ title: "Idioms, NP position, and control: Evidence from Russian"
 author: "Pavel Rudnev & Alexandra Shikunova"
 status: "published article"
 type: published
-citation: "(with Aleksandra Shikunova) &ldquo;Idioms, NP position, and control: Evidence from Russian.&rdquo; <em> Typology of Morphosyntactic Parameters</em> 5(1): 91–106."
+citation: "Rudnev, Pavel & Aleksandra Shikunova. 2022. &ldquo;Idioms, NP position, and control: Evidence from Russian.&rdquo; <em> Typology of Morphosyntactic Parameters</em> 5(1): 91–106."
 tag: "idioms"
 subjects: "idioms_control_Russian"
 comments: "yes"

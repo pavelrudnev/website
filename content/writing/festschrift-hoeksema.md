@@ -3,7 +3,7 @@ title: "Two challenges for existentialist approaches to strict negative concord"
 author: "Pavel Rudnev"
 status: "Published article"
 type: published
-citation: "&ldquo;Two challenges for existentialist approaches to strict negative concord.&rdquo; <em>TABU: Bulletin voor Taalwetenschap</em> 2024 Special Issue ‘Festschrift for Jack Hoeksema – Festschrift voor Jack Hoeksema’, 312–328."
+citation: "Rudnev, Pavel. 2024. &ldquo;Two challenges for existentialist approaches to strict negative concord.&rdquo; <em>TABU: Bulletin voor Taalwetenschap</em> 2024 Special Issue ‘Festschrift for Jack Hoeksema – Festschrift voor Jack Hoeksema’, 312–328."
 tag: "russian-negconc"
 file: "festschrift-hoeksema.pdf"
 subjects: "negative_concord quantification agreement clausal_ellipsis fragment_answers syntax_semantics_interface"

@@ -3,7 +3,7 @@ title: "_Kendisi_ revisited"
 author: "Pavel Rudnev"
 status: "Published in 2015"
 type: published
-citation: "&ldquo;<em>Kendisi</em> revisited,&rdquo; In Peter Arkadiev, Ivan Kapitonov, Yury Lander, Ekaterina Rakhilina and Sergei Tatevosov (eds.) <em>Donum semanticum: Opera linguistica et logica in honorem Barbarae Partee a discipulis amicisque Rossicis oblata</em>, 263–271. LRC Publishing, Moscow."
+citation: "Rudnev, Pavel. 2015. &ldquo;<em>Kendisi</em> revisited,&rdquo; In Peter Arkadiev, Ivan Kapitonov, Yury Lander, Ekaterina Rakhilina and Sergei Tatevosov (eds.) <em>Donum semanticum: Opera linguistica et logica in honorem Barbarae Partee a discipulis amicisque Rossicis oblata</em>, 263–271. LRC Publishing, Moscow."
 tag: "kendisi-revisited-bhp"
 file: "kendisirevisited.pdf"
 subjects: "anaphora Turkish formal_semantics definite_descriptions"

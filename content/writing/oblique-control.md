@@ -5,7 +5,7 @@ status: "to appear in Journal of Linguistics"
 type: published
 tag: "control-movement-russian"
 file: "oblique-control.pdf"
-citation: "(with Fyodor Baykov) “Not all obligatory control is movement.” <em>Journal of Linguistics</em> 56(4): 893–906."
+citation: "Baykov, Fyodor & Pavel Rudnev. 2020. “Not all obligatory control is movement.” <em>Journal of Linguistics</em> 56(4): 893–906."
 subjects: "case control movement Russian"
 date: "2020-05-26"
 publishdate: "2020-12-09"

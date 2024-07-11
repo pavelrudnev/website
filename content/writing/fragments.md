@@ -3,7 +3,7 @@ title: "Negative concord in fragments"
 author: "Pavel Rudnev"
 status: "published article"
 type: published
-citation: "&ldquo;Negative concord in fragments: Reëxamining the evidence against the negativity of negation markers.&rdquo; <em>Glossa: a journal of general linguistics</em> 9(1): 1–21."
+citation: "Rudnev, Pavel. 2024. &ldquo;Negative concord in fragments: Reëxamining the evidence against the negativity of negation markers.&rdquo; <em>Glossa: a journal of general linguistics</em> 9(1): 1–21."
 tag: "negative_concord Russian scrambling Agree clausal_ellipsis fragment_answers"
 comments: "yes"
 file: "fragments.pdf"

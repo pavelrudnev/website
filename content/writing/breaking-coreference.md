@@ -3,7 +3,7 @@ title: "Breaking the coreference rule: Reflexivity in Russian Sign Language"
 author: "Pavel Rudnev and Vadim Kimmelman"
 status: "Unpublished manuscript"
 type: unpublished
-citation: "(with Vadim Kimmelman) &ldquo;Breaking the coreference rule: Reflexivity in Russian Sign Language.&rdquo; Unpublished manuscript. University of Amsterdam and University of Groningen"
+citation: "Kimmelman, Vadim & Pavel Rudnev. 2011. &ldquo;Breaking the coreference rule: Reflexivity in Russian Sign Language.&rdquo; Unpublished manuscript. University of Amsterdam and University of Groningen"
 tag: "reflexives-rsl"
 file: "paper-coreference-rule.pdf"
 subjects: "anaphora binding_theory syntax_semantics_interface"

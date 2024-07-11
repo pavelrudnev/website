@@ -3,7 +3,7 @@ title: "Automatic detection of natural phonological classes in Russian Sign Lang
 author: "George Moroz and Antonina Plaskovitskaya and Pavel Rudnev"
 status: "Published in 2017"
 type: published
-citation: "(with George Moroz and Antonina Plaskovitskaya) &ldquo;Automatic detection of natural phonological classes in Russian Sign Language.&rdquo; <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301213\"><em>Higher School of Economics Research Paper</em> No. WP BRP 74/LNG/2018</a>."
+citation: "Moroz, George, Antonina Plaskovitskaya & Pavel Rudnev. 2018. &ldquo;Automatic detection of natural phonological classes in Russian Sign Language.&rdquo; <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301213\"><em>Higher School of Economics Research Paper</em> No. WP BRP 74/LNG/2018</a>."
 tag: "phonology-MCA-RSL-preprint"
 file: "74LNG2018.pdf"
 subjects: "RSL phonological_theory modality_effects"

@@ -3,7 +3,7 @@ title: "Multifunctionality and syncretism in non-finite forms: An introduction"
 author: "Ksenia Shagal, Pavel Rudnev & Anna Volkova"
 status: "published article"
 type: published
-citation: "(with Ksenia Shagal and Anna Volkova) &ldquo;Multifunctionality and syncretism in non-finite forms: An introduction.&rdquo; <em> Folia Linguistica</em> 56(3): 529–557."
+citation: "Shagal, Ksenia, Pavel Rudnev & Anna Volkova. 2022. &ldquo;Multifunctionality and syncretism in non-finite forms: An introduction.&rdquo; <em> Folia Linguistica</em> 56(3): 529–557."
 tag: "multifunctionality"
 subjects: "multifunctionality_nonfinites_typology"
 comments: "yes"

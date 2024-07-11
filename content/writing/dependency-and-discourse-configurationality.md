@@ -7,7 +7,7 @@ type: published
 kind: book
 isbn:  9789036777476
 status: Published in 2015
-citation: "<em>Dependency and discourse-configurationality: A study of Avar</em>, Groningen Dissertations in Linguistics 129, 2015."
+citation: "Rudnev, Pavel. 2015. <em>Dependency and discourse-configurationality: A study of Avar</em>, Groningen Dissertations in Linguistics 129, 2015."
 tag: thesis
 subjects: syntax semantics questions focus relative_clauses
 count: -2

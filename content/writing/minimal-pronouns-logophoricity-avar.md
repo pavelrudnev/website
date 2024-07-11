@@ -3,7 +3,7 @@ title: "Minimal pronouns, logophoricity, and long-distance reflexivisation in Av
 author: "Pavel Rudnev"
 status: "Published in 2017"
 type: published
-citation: "&ldquo;Minimal pronouns, logophoricity, and long-distance reflexivisation in Avar,&rdquo; <a href=\"http://dx.doi.org/10.1111/stul.12066\"><em>Studia Linguistica</em> (71:&nbsp;1–2), pp.&nbsp;154–177</a>."
+citation: "Rudnev, Pavel. 2017. &ldquo;Minimal pronouns, logophoricity, and long-distance reflexivisation in Avar,&rdquo; <a href=\"http://dx.doi.org/10.1111/stul.12066\"><em>Studia Linguistica</em> (71:&nbsp;1–2), pp.&nbsp;154–177</a>."
 tag: "logophoricity-avar-studia"
 file: "minimalpronouns.pdf"
 subjects: "anaphora binding_theory syntax_semantics_interface"

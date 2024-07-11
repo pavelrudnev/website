@@ -3,7 +3,7 @@ title: "Strict negative concord and the directionality of Agree"
 author: "Pavel Rudnev"
 status: "to appear"
 type: unpublished
-citation: "&ldquo;Strict negative concord in Russian and the directionality of Agree.&rdquo; Accepted with minor revisions at <em>Syntax</em>. April 2024."
+citation: "Rudnev, Pavel. 2024. &ldquo;Strict negative concord in Russian and the directionality of Agree.&rdquo; Accepted with minor revisions at <em>Syntax</em>. April 2024."
 tag: "negative_concord Russian scrambling Agree"
 comments: "yes"
 file: "negconc-scrambl.pdf"

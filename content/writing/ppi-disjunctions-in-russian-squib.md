@@ -3,7 +3,7 @@ title: "Some difficulties deriving the positive polarity behaviour of plain disj
 author: "Pavel Rudnev"
 status: "article in revision"
 type: unpublished
-citation: "&ldquo;Some difficulties deriving the positive polarity behaviour of plain disjunction in Russian: Remarks on Nicolae 2017.&rdquo; Unpublished manuscript. National Research University Higher School of Economics (Moscow)"
+citation: "Rudnev, Pavel. 2017. &ldquo;Some difficulties deriving the positive polarity behaviour of plain disjunction in Russian: Remarks on Nicolae 2017.&rdquo; Unpublished manuscript. National Research University Higher School of Economics (Moscow)"
 tag: "disjunction-russian"
 subjects: "disjunction implicatures Russian syntax_semantics_interface"
 comments: "yes"

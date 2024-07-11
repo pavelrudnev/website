@@ -3,7 +3,7 @@ title: "Why Turkish _kendisi_ is a pronominal"
 author: "Pavel Rudnev"
 status: "Published in 2011"
 type: published
-citation: "&ldquo;Why Turkish <em>kendisi</em> is a pronominal,&rdquo; <a href=\"https://docs.google.com/viewer?url=http%3A%2F%2Filing-ran.ru%2Flibrary%2Fural-altaic%2Fua2011_04.pdf\"><em>Ural-Altaic Studies</em> (4:1), pp.&nbsp;76–92</a>."
+citation: "Rudnev, Pavel. 2011. &ldquo;Why Turkish <em>kendisi</em> is a pronominal,&rdquo; <a href=\"https://docs.google.com/viewer?url=http%3A%2F%2Filing-ran.ru%2Flibrary%2Fural-altaic%2Fua2011_04.pdf\"><em>Ural-Altaic Studies</em> (4:1), pp.&nbsp;76–92</a>."
 tag: "kendisi-pronominal"
 file: "Why_Turkish_kendisi_is_a_pronominal.pdf"
 subjects: "anaphora binding_theory syntax_semantics_interface"

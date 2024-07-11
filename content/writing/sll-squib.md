@@ -3,7 +3,7 @@ title: "Linearisation constraints on sentential negation in Russian Sign Languag
 author: "Anna Kuznetsova & Pavel Rudnev"
 status: "published article"
 type: published
-citation: "(with Anna Kuznetsova) &ldquo;Linearization constraints on sentential negation in Russian Sign Language are prosodic.&rdquo; <em> Sign Language & Linguistics</em> 24(2): 259–273."
+citation: "Rudnev, Pavel & Anna Kuznetsova. 2021. &ldquo;Linearization constraints on sentential negation in Russian Sign Language are prosodic.&rdquo; <em> Sign Language & Linguistics</em> 24(2): 259–273."
 tag: "negation"
 subjects: "negation_RSL"
 comments: "yes"

@@ -5,7 +5,7 @@ status: "Published in Russian Linguistics"
 type: published
 tag: "NP-russian-experiments"
 file: "small-nominals-paper 2.pdf"
-citation: "“Categorial selection and functional structure in the noun phrase: Revisiting Russian small nominals.” <em>Russian Linguistics</em> 48, Article 1 (2024): 1–25."
+citation: "Rudnev, Pavel. 2024. “Categorial selection and functional structure in the noun phrase: Revisiting Russian small nominals.” <em>Russian Linguistics</em> 48, Article 1 (2024): 1–25."
 doi: "10.1007/s11185-023-09285-w"
 subjects: "case nominalization Russian"
 date: "2024-04-25"

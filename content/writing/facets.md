@@ -4,7 +4,7 @@ editor: "Pavel Caha, Pavel Rudnev & Svetlana Toldova"
 type: published
 status: published
 tag: "book"
-citation: "Caha, Pavel, Pavel Rudnev and Svetlana Toldova (eds.) <em>The many facets of agreement.</em> LINCOM Studies in Theoretical Linguistics 68. Munich: LINCOM Europa."
+citation: "Caha, Pavel, Pavel Rudnev & Svetlana Toldova (eds.). 2023. <em>The many facets of agreement.</em> LINCOM Studies in Theoretical Linguistics 68. Munich: LINCOM Europa."
 subjects: "anaphora binding_theory agreement nominalization finiteness"
 date: "2023-02-12"
 publishdate: "2023-02-12"
